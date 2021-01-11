@@ -13,7 +13,7 @@ pipeline{
 		
 		stage('build'){
 			steps{
-				sh 'maven verify'
+				sh 'mvn verify'
 			}
 		}
 	}
