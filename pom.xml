@@ -24,7 +24,7 @@
 
 	<repositories>
 		<repository>
-			<snapshots>
+			<snapshots> 
 				<enabled>false</enabled>
 			</snapshots>
 			<id>central</id>
