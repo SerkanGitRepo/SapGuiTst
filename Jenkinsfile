@@ -1,7 +1,5 @@
 pipeline{
-	environment{
-		JAVA_TOOL_OPTIONS='-Duser.home=/usr/share/maven'
-	}
+
 	agent any
 	
 	stages{
