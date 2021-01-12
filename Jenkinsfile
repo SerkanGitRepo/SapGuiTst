@@ -6,7 +6,7 @@ pipeline{
 		stage('build'){
 			steps{
 				sh 'mvn -v'
-				sh 'whereis java'
+				sh 'mvn verify'
 				
 			}
 		}
