@@ -7,7 +7,7 @@ Then User should be login
 
 Examples:
 |SapSys|username|password|client|SapLang|
-|PSQ|serkanaks|Zorlu.5483|021|TR|
+|PSQ|serkanaks|Zorlu.8383|021|TR|
 
 
  
